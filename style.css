@@ -1,0 +1,87 @@
+.body{
+    background-color: rgb(244, 246, 248);
+    color: black;
+    max-width: 800px;
+    margin: auto;
+}
+@media (max-width: 700px) {
+    .info{
+        display: block;
+        text-align: center;
+    }
+
+ }
+a{
+  color: black;  
+  text-decoration: none;
+}
+.fotka{
+    width: 150px;
+    border-radius: 22%;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 25); 
+}
+.a{
+    background: rgb(218, 198, 172);
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
+  .hobbi{
+      padding: 20px;
+      margin-top: none;
+  }
+  .hobbi li{
+      margin-bottom: 3px;
+  }
+
+.b{
+    background: rgb(224, 159, 170);
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.d{
+    background:rgb(235, 146, 114) ;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+
+}
+.c{
+    background: rgb(132, 162, 218);
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.e{
+   
+   width: 100%;
+}
+.rabota{
+    width: 100%;
+}
+.rabota td{
+   padding-bottom: 10px; 
+}
+.rabota td:nth-child(2){
+    color: aqua;
+}
+.kurs{
+    list-style: none;
+    padding: 0;
+} .kurs li{
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+
+
+
+
+
+
+
+
+
+
